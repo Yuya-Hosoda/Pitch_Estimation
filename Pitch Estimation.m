@@ -2,9 +2,9 @@ function Pitch = Complex_Frequency_based_Pitch_estimation(Speech, VAD)
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-% Yuya HOSODA, Arata KAWAMURA, Youji IIGUNI,                                                   
-% "Complex Frequency-Domain Pitch Estimation for Narrowband Speech Signals,"  
-% IEEE/ACM Trans. Audio, Speech, Lang. Process., 2021. (to be submitted)           
+% Y. Hosoda, A. Kawamura and Y. Iiguni, 
+% "Complex-Domain Pitch Estimation Algorithm for Narrowband Speech Signals,"
+% IEEE/ACM Trans. Audio, Speech, Lang. Process., vol. 31, pp. 2067-2078, 2023.       
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
